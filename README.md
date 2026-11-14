@@ -89,6 +89,3 @@ npm run lint
   they still play after a refresh. On Chromium, the folder handle is kept alive.
 - Song files are never modified or uploaded.
 
-## License
-
-This project is private.
